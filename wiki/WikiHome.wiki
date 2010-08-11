@@ -1,0 +1,10 @@
+#summary Home page of the RTBAssassin wiki.
+#labels Featured
+
+=RTBAssassin Wikki=
+
+Welcome to the RTBAssassin wiki, if you can't find what you are looking for here, ask the mailing list where I will be happy to answer any questions.
+
+=Table of Contents=
+
+ *
