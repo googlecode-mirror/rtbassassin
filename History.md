@@ -1,0 +1,10 @@
+# The Idea #
+Not being able to think of a useful project that I could start so I could attempt to hone my fresh programing skills (having just finished my freshman year of college), I figured I would get some infrastructure around me so when I did finally think of something I would be able to jump right into it. This included my own web server (an old dinosaur of a computer that I kept around knowing it would come in handy some day), a version control system which I could integrate with my own web server, and an issue tracing application that I could also host on my own web server so I, being a very disorganized person, could be able to remember every problem I found with my project.
+
+In the first day of looking around I was able to get a PHP enabled Apache web server up and running with multiple SVN repositories working through that web server. My search for a bug tracker however, was not that easy. In my search for a bug tracker that I could install on my own web server, I found plenty of examples of standalone bug trackers that looked amazing and were incredibly easy to use. The only problem is, the instructions on how to install them were impossible to comprehend or it required this that and the kitchen sink to be installed in-order to function.
+
+Then it finally dawned on me: **Make your own damn issue tracker!**
+
+# The Name #
+
+After researching so many different bug trackers I knew I had to find, not only a good name, but a good logo/mascot for mine. I used (who else?), Google to search for cool bugs, because what else would you use to represent your **bug** tracker? Google Image search did not disappoint. I found a picture of the Red Tiger Assassin Bug, not only did it look awesome, but rearrange the name a little, and you have a good name for a bug tracker too.

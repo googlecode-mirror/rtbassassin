@@ -1,0 +1,7 @@
+# RTBAssassin Wiki #
+
+Welcome to the RTBAssassin wiki, if you can't find what you are looking for here, ask the mailing list where I will be happy to answer any questions.
+
+# Table of Contents #
+
+  * [History](History.md)
